@@ -5,13 +5,23 @@ Palíndromos são palavras ou frases que podem ser lidas da esquerda para a dire
 
 Exemplos de Palíndromos
 Palavras
+
 afã
+
 aia
+
 aibofobia
+
 ala
+
 ama
+
 anã
+
 anilina
+
 ata
+
 arara
+
 asa
